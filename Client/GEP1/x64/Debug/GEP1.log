@@ -1,0 +1,19 @@
+﻿  drawCube.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\drawcube.h(2): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  drawLine.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\drawline.h(2): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  drawSphere.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\drawsphere.cpp(2): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  drawSpot.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\drawspot.h(2): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  imgui_impl_glut.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\imgui_impl_glut.cpp(11): fatal error C1083: Cannot open include file: 'GL/freeglut.h': No such file or directory
+  main.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\window.h(5): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  md2model.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\md2model.h(11): fatal error C1083: Cannot open include file: 'GL/glut.h': No such file or directory
+  QuestManager.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\questmanager.h(3): fatal error C1083: Cannot open include file: 'GL2\glew.h': No such file or directory
+  window.cpp
+d:\users\user\documents\github\new folder\gep1\gep1\window.h(5): fatal error C1083: Cannot open include file: 'GL2/glew.h': No such file or directory
+  Generating Code...
